@@ -11,3 +11,5 @@ Alunos:
 # Para rodar, digite no terminal:
 
 ```python main.py```
+    ou
+```python3 main.py```
